@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:ordering="sequentially">
+    <objectAnimator
+        android:duration="4200"
+        android:interpolator="@android:interpolator/accelerate_decelerate"
+        android:propertyName="fillColor"
+        android:valueFrom="@color/logocolor1"
+        android:valueTo="@color/logocolor2"
+        android:valueType="colorType" />
+
+    <objectAnimator
+        android:duration="4200"
+        android:interpolator="@android:interpolator/accelerate_decelerate"
+        android:propertyName="fillColor"
+        android:valueFrom="@color/logocolor2"
+        android:valueTo="@color/logocolor1"
+        android:valueType="colorType" />
+
+
+</set>

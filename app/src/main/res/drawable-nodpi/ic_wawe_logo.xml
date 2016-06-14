@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="189dp"
+        android:height="141dp"
+        android:viewportWidth="189.0"
+        android:viewportHeight="141.0">
+    <group android:name="logo_group"
+        android:rotation="0"
+        android:scaleX="1"
+        android:scaleY="1"
+        android:pivotX="94.5"
+        android:pivotY="70.5">
+    <path
+        android:name="logo"
+        android:pathData="@string/logocevtor"
+        android:fillColor="@color/logocolor1"/>
+    </group>
+
+</vector>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VectorAnimationExample</string>
+    <string name="logocevtor">M0,0L64,140.2L70.8,140.2L94.4,88.8L117.8,140.2L124.6,140.2L188.8,0L0,0ZM68.4,78.8L44.2,28L67.4,28L80.8,55.2L68.4,78.8ZM121.2,77.6L98,28L144.6,28L121.2,77.6ZM121.2,77.6</string>
+</resources>
